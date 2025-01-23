@@ -2,6 +2,7 @@ import './TodoItem.css'
 
 function TodoItem(props){
     return (
+    <div className='TodoComponent'>
     <li className= 'TodoItem'>
         <span className={`Icon Icon-check 
         ${props.completed && 'Icon-check--active'}
@@ -14,6 +15,7 @@ function TodoItem(props){
         x
         </span>
     </li>
+    </div>
     );
 }
 

@@ -1,9 +1,9 @@
 body {
   margin: 0;
   padding: 0;
-  background: #F2F4F5;
-  color: #1E1F1F;
-  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  background-image: url("../../../../Personal/M/dragon_ball___kame_house_by_tohad_dd3jtpp-pre.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 #root {
   margin: 0 24px;
